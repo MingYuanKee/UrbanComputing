@@ -1,6 +1,6 @@
 # Urban Computing
 
-This repository contains codes related to Computer Vision, covering the following assignments and projects:
+This repository contains codes related to Urban Computing, covering the following assignments and projects:
 
 Project 1: Build a deep learning-based location fingerprint model
 
